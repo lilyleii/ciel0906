@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciel0906
 - 👀 I’m interested in machine learning techniques, especially reinforcement learning and distributed learning.
-- 🌱 I’m currently a PhD student in University of Electronic Science and Technology of China, and University of Glasgow.
+- 🌱 I’m currently a PhD student in University of Electronic Science and Technology of China.
 - 💞️ I’m looking to collaborate on future exploration on space-air-ground integrated networks.
 - 📫 How to reach me: leicheng@std.uestc.edu.cn
 
